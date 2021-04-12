@@ -6,7 +6,7 @@
 
 [x] modulo 02 - Conceitos do Vue.
 
-[] modulo 03 - Início do projeto.
+[x] modulo 03 - Início do projeto.
 
 [] modulo 04 - Criando o dashboard.
 

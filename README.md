@@ -1,5 +1,7 @@
 # Curso-vueBrasil
 
+[Vuejs Brasil.](https://treinamento.vuejsbrasil.org/)
+
 # Curso VueBrasil
 
 [x] modulo 01 - Introdução.
